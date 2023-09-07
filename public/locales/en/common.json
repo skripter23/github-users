@@ -1,0 +1,16 @@
+{
+  "userName": "Username",
+  "lightMode": "LIGHT",
+  "darkMode": "DARK",
+  "userError": "Can't find user",
+  "joined": "Joined",
+  "repos": "Repos",
+  "followers": "Followers",
+  "following": "Following",
+  "located": "Located",
+  "twitter": "Twitter",
+  "visit": "Visit Profile",
+  "withoutTwitter": "Not Available",
+  "bio": "Bio",
+  "withoutBio": "Bio is not available"
+}

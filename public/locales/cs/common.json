@@ -1,0 +1,16 @@
+{
+  "userName": "Jmeno",
+  "lightMode": "SVĚTLÝ",
+  "darkMode": "TEMNÝ",
+  "userError": "Nelze najít uživatele",
+  "joined": "Vstoupil",
+  "repos": "ÚložIště",
+  "followers": "Následovatele",
+  "following": "Účastník",
+  "located": "Nacházi",
+  "twitter": "Twitter",
+  "visit": "Navštívit Profil",
+  "withoutTwitter": "bez Twitteru",
+  "bio": "Bio",
+  "withoutBio": "bez Bio"
+}
